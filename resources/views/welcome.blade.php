@@ -312,7 +312,11 @@
 
 
         </div>
+        <div class="w-100">
+            <img src="{{asset('images/map.gif')}}" alt="">
+        </div>
     </div>
+
 
 </div>
 
